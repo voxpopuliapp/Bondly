@@ -22,7 +22,6 @@
     },
     "web": {
       "bundler": "metro"
-    },
-    "newArchEnabled": true
+    }
   }
 }
