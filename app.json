@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Bondly",
+    "slug": "bondly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0D0B10"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0D0B10"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "newArchEnabled": true
+  }
+}
